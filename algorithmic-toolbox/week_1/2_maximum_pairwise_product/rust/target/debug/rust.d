@@ -1,1 +1,0 @@
-F:\PROJECTS\GIT\algorithms\algorithmic-toolbox\week_1\2_maximum_pairwise_product\rust\target\debug\rust.exe: F:\PROJECTS\GIT\algorithms\algorithmic-toolbox\week_1\2_maximum_pairwise_product\rust\src\main.rs
